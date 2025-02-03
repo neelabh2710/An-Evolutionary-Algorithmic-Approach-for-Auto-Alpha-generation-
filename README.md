@@ -4,4 +4,6 @@ This project implements a **Genetic Algorithm framework** for **Automated Alpha 
 
 ### Final Workflow
 
-![Final Workflow]([path_to_flowchart_image.png](https://github.com/neelabh2710/An-Evolutionary-Algorithmic-Approach-for-Auto-Alpha-generation-/blob/main/workflow.png))
+### Final Workflow
+
+![Final Workflow](https://github.com/neelabh2710/An-Evolutionary-Algorithmic-Approach-for-Auto-Alpha-generation-/blob/main/workflow.png)
